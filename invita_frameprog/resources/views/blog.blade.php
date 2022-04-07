@@ -41,7 +41,7 @@
         <h1 class="" style="font-size: 5rem"><strong>Invita </strong>Blog</h1>
         <div class="row justify-content-center pt-4">
           <div class="col-xxl-7 col-xl-10 col-lg-10 col-md-8 col-sm-9 col-8">
-            <p class="fs-2 fw-normal" style="letter-spacing: 3px">Bacaan terbaik kami suguhkan untuk Anda.</p>
+            <p class="fs-2 fw-normal" style="letter-spacing: 3px">We present the best inspirational reading references for you.</p>
           </div>
         </div>
       </div>
@@ -49,7 +49,7 @@
           <div class="row justify-content-center">
               <div class="col-8">
                   <div class="input-group mb-3">
-                      <input type="text" class="form-control pt-4 pb-4 fs-2" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" placeholder="Cari artikel yang anda inginkan..." style="border-radius: 10px 0 0 10px;">
+                      <input type="text" class="form-control pt-4 pb-4 fs-2" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" placeholder="Search article here ..." style="border-radius: 10px 0 0 10px;">
                       <button class="button input-group-text ps-4 pe-4 fs-2" id="inputGroup-sizing-default" type="submit" style="border-radius: 0 10px 10px 0;"><i class="bi bi-search"></i></button>
                   </div>
 
@@ -69,11 +69,11 @@
                 <div class="card h-100" style="width: 50rem; border-radius:15px">
                     <img src="img/blog1.png" class="card-img-top" style="border-radius:15px 15px 0 0">
                     <div class="card-body">
-                        <h5 class="card-title fw-bold fs-2" style="color : #044581">10 Manfaat Menggunakan Undangan Digital</h5>
+                        <h5 class="card-title fw-bold fs-2" style="color : #044581">10 Benefits of Using Digital Invitations</h5>
                         <p class="fs-5" style="color: #B5B5B5">November 15, 2018, 6:03:17 PM</p>
-                        <p class="card-text">Dengan begitu banyak pasangan modern yang mencari 
-                            cara untuk menghemat uang dan menyederhanakan rencana pernikahan mereka, 
-                            tidak heran jika semakin banyak pasangan yang beralih ke undangan digital.
+                        <p class="card-text">With so many modern couples looking for
+                             ways to save money and simplify their wedding plans,
+                             no wonder more and more couples are turning to digital invitations.
                         </p>
                     </div>
                     <div class="card-footer border-0 pb-4 text-center">
@@ -85,10 +85,10 @@
                 <div class="card h-100" style="width: 50rem; border-radius:15px">
                     <img src="img/blog2.png" class="card-img-top" style="border-radius:15px 15px 0 0">
                     <div class="card-body">
-                        <h5 class="card-title fw-bold fs-2" style="color : #044581">9 Hari Paling Populer untuk Bertunangan</h5>
+                        <h5 class="card-title fw-bold fs-2" style="color : #044581">The 9 Most Popular Days to Get Engaged</h5>
                         <p class="fs-5" style="color: #B5B5B5">November 15, 2018, 6:03:17 PM</p>
-                        <p class="card-text">Pelajari lebih lanjut tentang hari-hari paling populer untuk bertunangan, 
-                            dan mulailah mempersiapkan proposal Anda yang tak terlupakan!
+                        <p class="card-text">Learn more about the most popular days to get engaged,
+                             and start preparing your unforgettable proposal!
                         </p>
                     </div>
                     <div class="card-footer border-0 pb-4 text-center">
@@ -100,10 +100,10 @@
                 <div class="card h-100" style="width: 50rem; border-radius:15px">
                     <img src="img/blog3.png" class="card-img-top" style="border-radius:15px 15px 0 0">
                     <div class="card-body">
-                        <h5 class="card-title fw-bold fs-2" style="color : #044581">7 Alasan Mengapa Setiap Pengantin Harus Memiliki Website Pernikahan</h5>
+                        <h5 class="card-title fw-bold fs-2" style="color : #044581">7 Reasons Why Every Bride Should Have a Wedding Website</h5>
                         <p class="fs-5" style="color: #B5B5B5">November 15, 2018, 6:03:17 PM</p>
-                        <p class="card-text">Website pernikahan adalah halaman web yang menjadi 
-                            sahabat calon pengantin dalam membantu proses perencanaan hari pernikahannya
+                        <p class="card-text">A wedding website is a web page that becomes
+                             friends of the bride and groom in helping the process of planning their wedding day.
                         </p>
                     </div>
                     <div class="card-footer border-0 pb-4 text-center">
@@ -115,10 +115,10 @@
                 <div class="card h-100" style="width: 50rem; border-radius:15px">
                     <img src="img/blog4.png" class="card-img-top" style="border-radius:15px 15px 0 0">
                     <div class="card-body">
-                        <h5 class="card-title fw-bold fs-2" style="color : #044581">Kenapa Harus Memilih Kami? Ini Alasanya!</h5>
+                        <h5 class="card-title fw-bold fs-2" style="color : #044581">Why Should You Choose Us? This is the reason!</h5>
                         <p class="fs-5" style="color: #B5B5B5">November 15, 2018, 6:03:17 PM</p>
-                        <p class="card-text">Kami sebagai vendor undangan digital pertama di Indonesia 
-                            akan selalu berusaha menjadi yang terbaik!
+                        <p class="card-text">We are the first digital invitation vendor in Indonesia
+                             will always try to be the best!
                         </p>
                     </div>
                     <div class="card-footer border-0 pb-4 text-center">
@@ -134,7 +134,7 @@
     <div class="container-fluid diliput" style="margin-top: 75px; margin-bottom: 75px">
       <div class="row justify-content-center" style="margin-bottom: 50px">
         <div class="col-xxl-2 col-xl-3 col-lg-4 col-md-5 col-sm-6 col-7 col-2 text-center">
-          <h1 style="color: #044581">Telah diliput oleh</h1>
+          <h1 style="color: #044581">Covered By</h1>
           <hr style="color: #044581; opacity: 1; border: 1px solid; border-radius: 5px" />
         </div>
       </div>
@@ -170,7 +170,7 @@
               <h3>ABOUT</h3>
             </div>
             <div class="row">
-              <p>Website jasa digital marketing, design grafis dan pembuatan website</p>
+              <p>Website digital marketing services, graphic design and website creation</p>
             </div>
           </div>
           <div class="contact-footer-col col-lg-3 col-md-4 col-sm-6 col-8 text-lg-end text-center ms-lg-auto mb-5" style="height: 100%">

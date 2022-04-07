@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Daftar Invita.id</title>
+    <title>Sign Up Invita.id</title>
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
@@ -38,18 +38,18 @@
             </div>
             {{-- <div class="row justify-content-center mt-5 pt-4">
               <div class="col-xxl-7 col-xl-8 col-lg-10 col-sm-11 col-11 bg-white pt-2 pb-2 position-relative" style="border-radius: 10px">
-                <button type="button" class="btn text-start text-black fs-3 w-100" style="padding-left: 60px; color: #ccc">Daftar dengan google</button>
+                <button type="button" class="btn text-start text-black fs-3 w-100" style="padding-left: 60px; color: #ccc">Sign Up with Google</button>
                 <span class="icon-form bi bi-google fs-1 ps-3 pe-3 pt-1 position-absolute" style="top: 0; left: 0; height: 100%"></span>
               </div>
             </div>
             <div class="row mt-3">
-              <div class="col-12 fs-2" style="color: rgb(255, 255, 255)"><p>atau</p></div>
+              <div class="col-12 fs-2" style="color: rgb(255, 255, 255)"><p>or</p></div>
             </div> --}}
             <form action="/daftar" method="POST">
               @csrf
               <div class="row justify-content-center mt-3">
                 <div class="col-xxl-7 col-xl-8 col-lg-10 col-sm-11 col-11 bg-white pt-2 pb-2 position-relative" style="border-radius: 10px">
-                  <input type="text" id="nama-lengkap" name="nama-lengkap" class="form-control text-start text-black fs-3 w-100 border-0 @error('nama-lengkap') is-invalid @enderror" style="padding-left: 60px; color: #ccc; border-radius: 10px" placeholder="Nama Lengkap" value="{{ old('nama-lengkap') }}"/>
+                  <input type="text" id="nama-lengkap" name="nama-lengkap" class="form-control text-start text-black fs-3 w-100 border-0 @error('nama-lengkap') is-invalid @enderror" style="padding-left: 60px; color: #ccc; border-radius: 10px" placeholder="Full Name" value="{{ old('nama-lengkap') }}"/>
                   <span class="icon-form material-icons fs-1 ps-3 pe-3 pt-3 position-absolute" style="top: 0; left: 0; height: 100%"> badge </span>
                   @error('nama-lengkap')
                   <div class="invalid-feedback text-start fs-5 w-100" style="padding-left: 60px;">
@@ -83,7 +83,7 @@
               </div>
               <div class="row justify-content-center mt-3">
                 <div class="col-xxl-7 col-xl-8 col-lg-10 col-sm-11 col-11 bg-white pt-2 pb-2 position-relative" style="border-radius: 10px">
-                  <input type="tel" id="telepon" name="telepon" class="form-control text-start text-black fs-3 w-100 border-0 @error('telepon') is-invalid @enderror" style="padding-left: 60px; color: #ccc; border-radius: 10px" placeholder="Nomor Handphone" value="{{ old('telepon') }}"/>
+                  <input type="tel" id="telepon" name="telepon" class="form-control text-start text-black fs-3 w-100 border-0 @error('telepon') is-invalid @enderror" style="padding-left: 60px; color: #ccc; border-radius: 10px" placeholder="Mobile Phone Number" value="{{ old('telepon') }}"/>
                   <i class="icon-form bi bi-telephone-fill fs-1 ps-3 pe-3 pt-1 position-absolute" style="top: 0; left: 0; height: 100%"></i>
                   @error('telepon')
                   <div class="invalid-feedback text-start fs-5 w-100" style="padding-left: 60px;">
@@ -94,7 +94,7 @@
               </div>
               <div class="row justify-content-center mt-4">
                 <div class="col-xxl-7 col-xl-8 col-lg-10 col-sm-11 col-11 bg-white pt-2 pb-2 position-relative" style="border-radius: 10px">
-                  <input type="password" id="password" name="password" class="form-control text-start text-black fs-3 w-100 border-0 @error('password') is-invalid @enderror" placeholder="Kata Sandi" style="padding-left: 60px; color: #ccc; border-radius: 10px"/>
+                  <input type="password" id="password" name="password" class="form-control text-start text-black fs-3 w-100 border-0 @error('password') is-invalid @enderror" placeholder="Password" style="padding-left: 60px; color: #ccc; border-radius: 10px"/>
                   <i class="icon-form bi bi-key-fill fs-1 ps-3 pe-3 pt-1 position-absolute" style="top: 0; left: 0; height: 100%"></i>
                   @error('password')
                   <div class="invalid-feedback text-start fs-5 w-100" style="padding-left: 60px;">
@@ -110,7 +110,7 @@
                     id="confirm-pass"
                     name="confirm-password"
                     class="form-control text-start text-black fs-3 w-100 border-0 @error('confirm-password') is-invalid @enderror"
-                    placeholder="Konfirmasi Kata Sandi"
+                    placeholder="Confirm Password"
                     style="padding-left: 60px; color: #ccc; border-radius: 10px"
                   />
                   <i class="icon-form bi bi-key-fill fs-1 ps-3 pe-3 pt-1 position-absolute" style="top: 0; left: 0; height: 100%"></i>
@@ -123,7 +123,7 @@
               </div>
               <div class="row justify-content-center mt-5 pt-3">
                 <div class="col-12" style="border-radius: 10px">
-                  <button type="submit" class="btn text-center text-white fw-normal ps-4 pe-4 fs-3 pt-2 pb-2" style="background-color: #044581">Daftar</button>
+                  <button type="submit" class="btn text-center text-white fw-normal ps-4 pe-4 fs-3 pt-2 pb-2" style="background-color: #044581">Sign Up</button>
                 </div>
               </div>
             </form>

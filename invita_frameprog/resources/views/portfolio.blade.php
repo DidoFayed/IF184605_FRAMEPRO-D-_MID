@@ -112,7 +112,7 @@
                     <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                   </div>
                   <div class="col-10">
-                    <a href="https://invita.id/fredimaleeva" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                    <a href="https://invita.id/fredimaleeva" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                   </div>
                 </div>
               </div>
@@ -153,7 +153,7 @@
                     <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                   </div>
                   <div class="col-10">
-                    <a href="https://invita.id/weddingofarifdita" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                    <a href="https://invita.id/weddingofarifdita" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                   </div>
                 </div>
               </div>
@@ -194,7 +194,7 @@
                     <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                   </div>
                   <div class="col-10">
-                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                   </div>
                 </div>
               </div>
@@ -235,7 +235,7 @@
                     <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                   </div>
                   <div class="col-10">
-                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                   </div>
                 </div>
               </div>
@@ -276,7 +276,7 @@
                     <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                   </div>
                   <div class="col-10">
-                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                   </div>
                 </div>
               </div>
@@ -317,7 +317,7 @@
                     <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                   </div>
                   <div class="col-10">
-                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                   </div>
                 </div>
               </div>
@@ -358,7 +358,7 @@
                     <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                   </div>
                   <div class="col-10">
-                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                   </div>
                 </div>
               </div>
@@ -399,7 +399,7 @@
                     <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                   </div>
                   <div class="col-10">
-                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                   </div>
                 </div>
               </div>
@@ -440,7 +440,7 @@
                     <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                   </div>
                   <div class="col-10">
-                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                   </div>
                 </div>
               </div>
@@ -481,7 +481,7 @@
                     <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                   </div>
                   <div class="col-10">
-                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                   </div>
                 </div>
               </div>
@@ -522,7 +522,7 @@
                     <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                   </div>
                   <div class="col-10">
-                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                   </div>
                 </div>
               </div>
@@ -563,7 +563,7 @@
                     <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                   </div>
                   <div class="col-10">
-                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                    <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                   </div>
                 </div>
               </div>
@@ -608,7 +608,7 @@
                   <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                 </div>
                 <div class="col-10">
-                  <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                  <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                 </div>
               </div>
             </div>
@@ -649,7 +649,7 @@
                   <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                 </div>
                 <div class="col-10">
-                  <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                  <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                 </div>
               </div>
             </div>
@@ -690,7 +690,7 @@
                   <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                 </div>
                 <div class="col-10">
-                  <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                  <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                 </div>
               </div>
             </div>
@@ -731,7 +731,7 @@
                   <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                 </div>
                 <div class="col-10">
-                  <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                  <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                 </div>
               </div>
             </div>
@@ -772,7 +772,7 @@
                   <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                 </div>
                 <div class="col-10">
-                  <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                  <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                 </div>
               </div>
             </div>
@@ -813,7 +813,7 @@
                   <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                 </div>
                 <div class="col-10">
-                  <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                  <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                 </div>
               </div>
             </div>
@@ -856,7 +856,7 @@
                   <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                 </div>
                 <div class="col-10">
-                  <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                  <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                 </div>
               </div>
             </div>
@@ -897,7 +897,7 @@
                   <i class="bi bi-eye-fill" style="font-size: 1.5rem; color: #aaa"></i>
                 </div>
                 <div class="col-10">
-                  <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Lihat Tampilan</a>
+                  <a href="#" style="font-size: 1.5rem; text-decoration: none; color: #aaa">Show Details</a>
                 </div>
               </div>
             </div>

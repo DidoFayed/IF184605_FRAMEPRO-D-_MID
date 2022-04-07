@@ -41,8 +41,8 @@
         <h1 class="" style="font-size: 5rem"><strong>Invita </strong>Review</h1>
         <div class="row justify-content-center pt-4">
           <div class="col-xxl-7 col-xl-10 col-lg-10 col-md-8 col-sm-9 col-8">
-            <p class="fs-2 fw-normal" style="letter-spacing: 3px">Dedikasi sepenuh hati dan service yang maksimal untuk pelanggan kami. <br>
-              Bagaimana ulasan mereka tentang Invita.id?</p>
+            <p class="fs-2 fw-normal" style="letter-spacing: 3px">Wholehearted dedication and maximum service to our customers. <br>
+               How are their reviews about Invita.id?</p>
           </div>
         </div>
       </div>
@@ -80,7 +80,7 @@
     <div class="container-fluid p-5 diliput" style="margin-top: 75px; padding-bottom: 75px; background: white">
       <div class="row justify-content-center" style="margin-bottom: 50px">
         <div class="col-xxl-2 col-xl-3 col-lg-4 col-md-5 col-sm-6 col-7 col-2 text-center">
-          <h1 style="color: #044581">Telah diliput oleh</h1>
+          <h1 style="color: #044581">Covered By</h1>
           <hr style="color: #044581; opacity: 1; border: 1px solid; border-radius: 5px" />
         </div>
       </div>
@@ -116,7 +116,7 @@
               <h3>ABOUT</h3>
             </div>
             <div class="row">
-              <p>Website jasa digital marketing, design grafis dan pembuatan website</p>
+              <p>Website digital marketing services, graphic design and website creation</p>
             </div>
           </div>
           <div class="contact-footer-col col-lg-3 col-md-4 col-sm-6 col-8 text-lg-end text-center ms-lg-auto mb-5" style="height: 100%">

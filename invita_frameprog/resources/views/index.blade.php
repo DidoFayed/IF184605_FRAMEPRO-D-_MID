@@ -280,7 +280,7 @@
 
         <div class="row justify-content-center">
           <div class="col-sm-5 col-12">
-            <button type="button" class="btn btn-light p-2 ps-3 pe-3 text-white mt-5" style="background-color: #0199ff; font-size: 1.6rem">Lihat Portfolio Lainnya</button>
+            <button type="button" class="btn btn-light p-2 ps-3 pe-3 text-white mt-5" style="background-color: #0199ff; font-size: 1.6rem">See Other Portfolio</button>
           </div>
         </div>
       </div>
