@@ -89,21 +89,21 @@
     <!-- jumbotron 2 -->
     <section class="jumbotron jb-img text-center text-white position-relative" style="margin-top: 200px; background-color: #0081d8">
       <div class="container text-start overflow-hidden" style="padding-top: 100px">
-        <h4 class="fw-normal" style="font-size: 2.4rem">Hadirkan Undangan Unik dan Istimewa</h4>
+        <h4 class="fw-normal" style="font-size: 2.4rem">Present Unique and Special Invitations</h4>
         <div class="col-lg-5 col-12">
-          <h1 class="fw-bold" style="font-size: 4rem">Website Undangan Digital Sesuai Selera Anda</h1>
+          <h1 class="fw-bold" style="font-size: 4rem">Digital Invitation Website According to Your Taste</h1>
         </div>
         <div class="row pt-4">
           <div class="col-lg-6 col-12">
             <p class="fw-normal" style="letter-spacing: 1px; font-size: 2.4rem">
-              Jadikan undangan acara anda berbeda dan lebih istimewa dibandingkan acara lainnya. Undangan acara anda akan tampil di website dan bisa diakses oleh tamu anda dari mana saja. Dengan fitur-fitur yang user friendly dan
-              lengkap, anda juga akan mendapatkan website acara setema dengan undangan anda.
+            Make your event invitation different and more special than other events. Your event invitation will appear on the website and can be accessed by your guests from anywhere. 
+            With user friendly and complete features, you will also get a themed event website with your invitation.
             </p>
           </div>
         </div>
         <div class="btn-buat-undangan row pt-4">
           <div class="col-lg-6 position-absolute">
-            <button type="button" class="btn btn-light fw-bold p-3 ps-5 pe-5" style="color: #0199ff; font-size: 2.8rem">Buat Undanganmu Sekarang</button>
+            <button type="button" class="btn btn-light fw-bold p-3 ps-5 pe-5" style="color: #0199ff; font-size: 2.8rem">Create Your Invitation</button>
           </div>
         </div>
         <div id="jb-carousel" class="carousel slide couple img-fluid position-absolute d-lg-block d-none" data-bs-ride="carousel" style="left : 100px; border-radius: 0 0 0 200px">
@@ -194,7 +194,7 @@
     <section class="portfolio bg-white" style="">
       <div class="container text-center">
         <h1 class="fw-bold" style="color: #044581; font-size: 4rem">Portfolio</h1>
-        <h4 style="font-size: 2.4rem">Penawaran terbaik untuk anda</h4>
+        <h4 style="font-size: 2.4rem">Best offer for you</h4>
 
         <div class="row text-center" style="">
           <div class="col-lg-4 col-md-6 col-sm-12">
@@ -292,7 +292,7 @@
       <div class="container text-center pt-5 pb-5" style="margin-top: 100px">
         <div class="row">
           <div class="col-12">
-            <h1 class="fw-normal" style="color: #044581; font-size: 4rem"><strong>Apa Kata </strong>Mereka?</h1>
+            <h1 class="fw-normal" style="color: #044581; font-size: 4rem"><strong>What They </strong>Said?</h1>
           </div>
         </div>
         <div class="row mt-5 position-relative" style="">
@@ -366,14 +366,14 @@
     <!-- contact us -->
     <div class="container contact-us text-center" style="padding: 0; background-image: url(img/bg-contact.png); background-repeat: no-repeat; background-size: cover; background-position: center">
       <div class="row row-hubungi">
-        <h1 class="text-white fw-bold" style="font-size: 4rem">Hubungi Kami</h1>
+        <h1 class="text-white fw-bold" style="font-size: 4rem">Contact Us</h1>
       </div>
       <div class="row justify-content-center position-relative d-md-flex d-none" style="top: 10%">
         <div class="col-4 blue-contact position-absolute text-white">
           <div class="blue-box" style="background-color: #00548c; border-radius: 10px; width: 333px; height: 387px">
             <div class="row ps-5">
               <div class="col-12 mt-5 ps-4 text-start">
-                <h2>Informasi Kontak</h2>
+                <h2>Contact Information</h2>
               </div>
             </div>
             <div class="row mb-2 fs-4 text-center justify-content-center" style="margin-top: 30px">
@@ -412,12 +412,12 @@
         </div>
         <div class="col-8">
           <div class="box-white bg-white text-start" style="width: 100%">
-            <h2 class="pesan fw-bold" style="padding-top: 70px">Kirim Pesan</h2>
+            <h2 class="pesan fw-bold" style="padding-top: 70px">Criticism and Suggestions</h2>
             <form id="pesan" action="">
               <div class="row text-start mt-lg-5 mt-4">
                 <div class="col col-xl-5 col-lg-5 col-md-8 col-nama">
                   <div class="row">
-                    <label for="nama" class="form-label fw-bold fs-4" style="color: #227aff">Nama Lengkap</label>
+                    <label for="nama" class="form-label fw-bold fs-4" style="color: #227aff">Full Name</label>
                   </div>
                   <div class="row">
                     <input type="text" class="form-control fw-bold fs-5" id="nama" placeholder="Masukkan nama lengkap" aria-describedby="nama" style="border: none" />
@@ -426,7 +426,7 @@
                 </div>
                 <div class="col col-xl-5 col-lg-5 col-md-8 col-nomor">
                   <div class="row">
-                    <label for="no" class="form-label fw-bold fs-4" style="color: #227aff">Nomor Hp</label>
+                    <label for="no" class="form-label fw-bold fs-4" style="color: #227aff">Mobile Phone Number</label>
                   </div>
                   <div class="row">
                     <input type="tel" class="form-control fw-bold fs-5" id="no" placeholder="Masukkan nomor hp" aria-describedby="no" style="border: none" />
@@ -437,7 +437,7 @@
               <div class="row text-start mt-lg-4 mt-4">
                 <div class="col col-xl-5 col-lg-5 col-md-8 col-subjek">
                   <div class="row">
-                    <label for="subjek" class="form-label fw-bold fs-4" style="color: #227aff">Subjek</label>
+                    <label for="subjek" class="form-label fw-bold fs-4" style="color: #227aff">Subject</label>
                   </div>
                   <div class="row">
                     <input type="text" class="form-control fw-bold fs-5" id="subjek" placeholder="Masukkan subjek pesan" aria-describedby="subjek" style="border: none" />
@@ -457,7 +457,7 @@
               <div class="row text-start mt-lg-4 mt-4">
                 <div class="col col-xl-11 col-lg-11 col-md-8 col-pesan">
                   <div class="row">
-                    <label for="pesan" class="form-label fw-bold fs-4" style="color: #227aff">Tulis Pesan Disini ...</label>
+                    <label for="pesan" class="form-label fw-bold fs-4" style="color: #227aff">Write Your Message Here ...</label>
                   </div>
                   <div class="row">
                     <input type="pesan" class="form-control fw-bold fs-5" id="subjek" placeholder="Tulis pesan anda" aria-describedby="pesan" style="border: none" />
@@ -467,7 +467,7 @@
               </div>
               <div class="row text-start mt-lg-4 mt-4">
                 <div class="col-12">
-                  <button type="button" class="btn btn-primary ps-4 pe-4 pb-2 pt-2 fs-4" style="border-radius: 10px" onclick="window.location.href='/'">Kirim Pesan</button>
+                  <button type="button" class="btn btn-primary ps-4 pe-4 pb-2 pt-2 fs-4" style="border-radius: 10px" onclick="window.location.href='/'">Send Message</button>
                 </div>
               </div>
             </form>
@@ -477,12 +477,12 @@
       <div class="row justify-content-center d-md-none mt-5">
         <div class="col-10">
           <div class="bg-white text-start" style="padding: 35px; border-radius: 10px">
-            <h2 class="pesan fw-bold" style="">Kirim Pesan</h2>
+            <h2 class="pesan fw-bold" style="">Send Message</h2>
             <form id="pesan" action="">
               <div class="row text-start mt-lg-5 mt-4">
                 <div class="col-sm-12 col-nama">
                   <div class="row">
-                    <label for="nama" class="form-label fw-bold fs-4" style="color: #227aff">Nama Lengkap</label>
+                    <label for="nama" class="form-label fw-bold fs-4" style="color: #227aff">Full Name</label>
                   </div>
                   <div class="row">
                     <input type="text" class="form-control fw-bold fs-5" id="nama" placeholder="Masukkan nama lengkap" aria-describedby="nama" style="border: none" />
@@ -491,7 +491,7 @@
                 </div>
                 <div class="col-sm-12 col-nomor">
                   <div class="row">
-                    <label for="no" class="form-label fw-bold fs-4" style="color: #227aff">Nomor Hp</label>
+                    <label for="no" class="form-label fw-bold fs-4" style="color: #227aff">Mobile Phone Number</label>
                   </div>
                   <div class="row">
                     <input type="tel" class="form-control fw-bold fs-5" id="no" placeholder="Masukkan nomor hp" aria-describedby="no" style="border: none" />
@@ -502,7 +502,7 @@
               <div class="row text-start mt-lg-4 mt-4">
                 <div class="col-sm-12 col-subjek">
                   <div class="row">
-                    <label for="subjek" class="form-label fw-bold fs-4" style="color: #227aff">Subjek</label>
+                    <label for="subjek" class="form-label fw-bold fs-4" style="color: #227aff">Subject</label>
                   </div>
                   <div class="row">
                     <input type="text" class="form-control fw-bold fs-5" id="subjek" placeholder="Masukkan subjek pesan" aria-describedby="subjek" style="border: none" />
@@ -522,7 +522,7 @@
               <div class="row text-start mt-lg-4 mt-4">
                 <div class="col l-sm-12 col-pesan">
                   <div class="row">
-                    <label for="pesan" class="form-label fw-bold fs-4" style="color: #227aff">Tulis Pesan Disini ...</label>
+                    <label for="pesan" class="form-label fw-bold fs-4" style="color: #227aff">Write Your Message Here ...</label>
                   </div>
                   <div class="row">
                     <input type="pesan" class="form-control fw-bold fs-5" id="subjek" placeholder="Tulis pesan anda" aria-describedby="pesan" style="border: none" />
@@ -532,7 +532,7 @@
               </div>
               <div class="row text-start mt-lg-4 mt-4">
                 <div class="col-12">
-                  <button type="button" class="btn btn-primary ps-4 pe-4 pb-2 pt-2 fs-4" onclick="window.location.href='/'" style="border-radius: 10px">Kirim Pesan</button>
+                  <button type="button" class="btn btn-primary ps-4 pe-4 pb-2 pt-2 fs-4" onclick="window.location.href='/'" style="border-radius: 10px">Send Message</button>
                 </div>
               </div>
             </form>
@@ -544,7 +544,7 @@
           <div class="" style="background-color: #00548c; border-radius: 10px; height: 387px">
             <div class="row ps-5">
               <div class="col-12 mt-5 ps-4 text-start">
-                <h2>Informasi Kontak</h2>
+                <h2>Contact Information</h2>
               </div>
             </div>
             <div class="row mb-2 fs-4 text-center justify-content-center" style="margin-top: 30px">
@@ -589,7 +589,7 @@
     <div class="container-fluid diliput" style="margin-top: 75px; margin-bottom: 75px">
       <div class="row justify-content-center" style="margin-bottom: 50px">
         <div class="col-xxl-2 col-xl-3 col-lg-4 col-md-5 col-sm-6 col-7 col-2 text-center">
-          <h1 style="color: #044581">Telah diliput oleh</h1>
+          <h1 style="color: #044581">Covered By</h1>
           <hr style="color: #044581; opacity: 1; border: 1px solid; border-radius: 5px" />
         </div>
       </div>
@@ -625,7 +625,7 @@
               <h3>ABOUT</h3>
             </div>
             <div class="row">
-              <p>Website jasa digital marketing, design grafis dan pembuatan website</p>
+              <p>Website digital marketing services, graphic design and website creation</p>
             </div>
           </div>
           <div class="contact-footer-col col-lg-3 col-md-4 col-sm-6 col-8 text-lg-end text-center ms-lg-auto mb-5" style="height: 100%">
