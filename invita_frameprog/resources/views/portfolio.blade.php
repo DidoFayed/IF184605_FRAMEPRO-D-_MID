@@ -37,16 +37,16 @@
     <!-- jumbotron 1-->
     <section class="jumbotron text-center text-white d-flex flex-column" style="padding-top: 100px">
       <div class="container-fluid">
-        <h1 class="" style="font-size: 5rem">Portfolio Terbaik Kami</h1>
+        <h1 class="" style="font-size: 5rem">Our Best Portfolio</h1>
         <div class="row justify-content-center pt-4">
           <div class="col-xxl-7 col-xl-10 col-lg-10 col-md-8 col-sm-9 col-8">
-            <p class="fs-2 fw-normal" style="letter-spacing: 3px">Portfolio Terbaik yang Kami persembahkan untuk customer kami.</p>
+            <p class="fs-2 fw-normal" style="letter-spacing: 3px">The best products that we offer to our customers.</p>
           </div>
         </div>
         <div class="row justify-content-center pt-4">
           <div class="col-xl-3 col-lg-4">
             <a href="/order">
-              <button type="button" class="btn btn-light fw-bold pt-4 pb-4 ps-5 pe-5" style="color: #0199ff; font-size: 2.5rem; z-index: 99999">Order Sekarang</button>
+              <button type="button" class="btn btn-light fw-bold pt-4 pb-4 ps-5 pe-5" style="color: #0199ff; font-size: 2.5rem; z-index: 99999">Order Now</button>
             </a>
           </div>
         </div>
@@ -67,10 +67,10 @@
         <div class="col-2">
           <div class="input-group">
             <select class="form-select text-white fw-bold fs-3 pb-2 pt-2 ps-3 pb-3" id="jenis-kegiatan" style="background-color:#0199FF">
-              <option class="bg-white text-black fw-normal">Jenis Kegiatan</option> 
-              <option class="bg-white text-black fw-normal" value="pernikahan">Pernikahan</option>
-              <option class="bg-white text-black fw-normal" value="ultah">Ulang Tahun</option>
-              <option class="bg-white text-black fw-normal" value="lainnya">Lainnya</option>
+              <option class="bg-white text-black fw-normal">Type of Event</option> 
+              <option class="bg-white text-black fw-normal" value="pernikahan">Wedding</option>
+              <option class="bg-white text-black fw-normal" value="ultah">Birthday</option>
+              <option class="bg-white text-black fw-normal" value="lainnya">Other</option>
             </select>
           </div>
         </div>
@@ -911,7 +911,7 @@
     <div class="container-fluid diliput" style="margin-top: 75px; margin-bottom: 75px">
       <div class="row justify-content-center" style="margin-bottom: 50px">
         <div class="col-xxl-2 col-xl-3 col-lg-4 col-md-5 col-sm-6 col-7 col-2 text-center">
-          <h1 style="color: #044581">Telah diliput oleh</h1>
+          <h1 style="color: #044581">Covered By</h1>
           <hr style="color: #044581; opacity: 1; border: 1px solid; border-radius: 5px" />
         </div>
       </div>
